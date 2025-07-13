@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-# Merhaba, ben Yücel! 👋
-
 GitHub profilime hoş geldin!  
 Burada geliştirdiğim projeleri, teknik becerilerimi ve yazılım yolculuğumu bulabilirsin.
 
@@ -34,21 +32,6 @@ Modern web teknolojileriyle kullanıcı odaklı projeler geliştirmeyi ve yeni t
 | [flask_youtube_video_cut_dowload](https://github.com/yucel-gumus/flask_youtube_video_cut_dowload) | Youtube videosunu belirli aralıkta kesip indirme uygulaması | Python, Flask |
 
 > Daha fazla proje için [repo listeme göz atabilirsin!](https://github.com/yucel-gumus?tab=repositories)
-
----
-
-## 📫 Bana Ulaş
-
-- [GitHub](https://github.com/yucel-gumus)
-- [Projelerim](https://github.com/yucel-gumus?tab=repositories)
-- [LinkedIn](#) <!-- LinkedIn linkini ekleyebilirsin -->
-- [E-posta](mailto:youremail@example.com) <!-- E-posta adresini ekleyebilirsin -->
-
----
-
-## 📝 Son Aktiviteler
-
-<!-- GitHub Readme Stats veya benzeri bir araç ile son katkıların, dillerin ve istatistiklerin görsel olarak eklenebilir. -->
 
 ---
 
