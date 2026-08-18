@@ -80,7 +80,8 @@ Merhaba! Ben **Yücel Gümüş**. Modern web teknolojileri, **Yapay Zeka (Agenti
 | 🎭 **[Yapay Zeka Tartışma Platformu](https://github.com/yucel-gumus/yapay-zeka-tartisma-platformu)** | Çoklu ajan tartışma simülasyonu ve Hakem Ajan karar sistemi | Next.js 15, Firebase, Gemini |
 | 📊 **[Dynamic Energy Dashboard](https://github.com/yucel-gumus/dynamic_dashboard)** | Sürükle-bırak (@dnd-kit) dinamik enerji izleme paneli | React 19, Vite 7, Tailwind |
 | 🎬 **[Video Cut Terminal](https://github.com/yucel-gumus/Video_Cut_Terminal)** | Apple Silicon M-serisi optimize CLI video kesme aracı | Python, Typer, Rich, FFmpeg |
-| 🗺️ **[Turkey Interactive Map](https://github.com/yucel-gumus/turkey-map.github.io)** | 81 İl poligon verili CBS haritası ve koordinat dönüşümü | React, Leaflet, Proj4 |
+| 🗺️ **[Gemini MCP Maps](https://github.com/yucel-gumus/gemini-mcp-maps)** ([Canlı Demo](https://yucel-gumus.github.io/gemini-mcp-maps/)) | Gemini AI & Model Context Protocol harita asistanı | TypeScript, Vite, Maps API |
+| 🗺️ **[Turkey Interactive Map](https://github.com/yucel-gumus/turkey-map.github.io)** ([Canlı Demo](https://yucel-gumus.github.io/turkey-map.github.io/)) | 81 İl poligon verili CBS haritası ve koordinat dönüşümü | React, Leaflet, Proj4 |
 
 ---
 
