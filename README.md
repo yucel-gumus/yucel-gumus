@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Yücel%20Gümüş&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Spatial%20Intelligence%20Specialist&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Y%C3%BCcel%20G%C3%BCm%C3%BC%C5%9F&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Spatial%20Intelligence%20Specialist&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
   
   <br/>
 
   [![Portfolio Website](https://img.shields.io/badge/Portfolio-yucelgumus.dev-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yucelgumus.dev/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yücel_Gümüş-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yucel-gumus/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Y%C3%BCcel_G%C3%BCm%C3%BC%C5%9F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yucel-gumus/)
   [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yucelgumus61-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/yucelgumus61)
   [![GitHub](https://img.shields.io/badge/GitHub-yucel--gumus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yucel-gumus)
 </div>
@@ -88,12 +88,12 @@ Merhaba! Ben **Yücel Gümüş**. Modern web teknolojileri, **Yapay Zeka (Agenti
 ## 📈 GitHub İstatistikleri (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yucel-gumus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucel-gumus&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Langs"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yucel-gumus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yucel-gumus&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Langs"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yucel-gumus&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=yucel-gumus&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -107,6 +107,6 @@ Merhaba! Ben **Yücel Gümüş**. Modern web teknolojileri, **Yapay Zeka (Agenti
 
 <div align="center">
   <a href="https://www.yucelgumus.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Designed%20%26%20Developed%20by-Yücel%20Gümüş-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Yücel Gümüş" />
+    <img src="https://img.shields.io/badge/Designed%20%26%20Developed%20by-Y%C3%BCcel_G%C3%BCm%C3%BC%C5%9F-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Yücel Gümüş" />
   </a>
 </div>
