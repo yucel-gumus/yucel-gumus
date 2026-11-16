@@ -7,10 +7,10 @@
 
   <br/><br/>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-yucelgumus.dev-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.yucelgumus.dev/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Y%C3%BCcel_G%C3%BCm%C3%BC%C5%9F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yucel-gumus/)
-  [![Hugging Face](https://img.shields.io/badge/Hugging_Face-yucelgumus61-F59E0B?style=for-the-badge&logo=huggingface&logoColor=0F172A)](https://huggingface.co/spaces/yucelgumus61)
-  [![GitHub](https://img.shields.io/badge/GitHub-yucel--gumus-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yucel-gumus)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yucelgumus.dev-EC7D55?style=for-the-badge&labelColor=253341&logo=googlechrome&logoColor=F5F9F5)](https://www.yucelgumus.dev/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Y%C3%BCcel_G%C3%BCm%C3%BC%C5%9F-3E5164?style=for-the-badge&labelColor=253341&logo=linkedin&logoColor=F5F9F5)](https://www.linkedin.com/in/yucel-gumus/)
+  [![Hugging Face](https://img.shields.io/badge/Hugging_Face-yucelgumus61-F2A488?style=for-the-badge&labelColor=253341&logo=huggingface&logoColor=253341)](https://huggingface.co/spaces/yucelgumus61)
+  [![GitHub](https://img.shields.io/badge/GitHub-yucel--gumus-253341?style=for-the-badge&labelColor=3E5164&logo=github&logoColor=F5F9F5)](https://github.com/yucel-gumus)
 </div>
 
 ---
@@ -129,39 +129,39 @@ flowchart LR
 
 **AI, Ajanlar &amp; Protokoller**
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_ADK-0EA5E9?style=flat-square&logo=googlecloud&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF9900?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-7C3AED?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone_Vector-000000?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-F59E0B?style=flat-square&logo=huggingface&logoColor=0F172A)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-253341?style=flat-square&logo=google&logoColor=F2A488)
+![Google ADK](https://img.shields.io/badge/Google_ADK-EC7D55?style=flat-square&logo=googlecloud&logoColor=253341)
+![LangGraph](https://img.shields.io/badge/LangGraph-AB421C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-3E5164?style=flat-square&logo=langchain&logoColor=F5F9F5)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-253341?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone_Vector-3E5164?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-253341?style=flat-square&logo=ollama&logoColor=F5F9F5)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-F2A488?style=flat-square&logo=huggingface&logoColor=253341)
 
 **Frontend, 3B WebGL &amp; CBS (GIS)**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js_%2F_WebGL-000000?style=flat-square&logo=three.js&logoColor=white)
-![CesiumJS](https://img.shields.io/badge/CesiumJS-00A3E0?style=flat-square&logo=cesium&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3E5164?style=flat-square&logo=typescript&logoColor=F5F9F5)
+![React](https://img.shields.io/badge/React_19-253341?style=flat-square&logo=react&logoColor=F2A488)
+![Next.js](https://img.shields.io/badge/Next.js_15-253341?style=flat-square&logo=next.js&logoColor=F5F9F5)
+![Svelte](https://img.shields.io/badge/Svelte_5-EC7D55?style=flat-square&logo=svelte&logoColor=253341)
+![Three.js](https://img.shields.io/badge/Three.js_%2F_WebGL-253341?style=flat-square&logo=three.js&logoColor=F5F9F5)
+![CesiumJS](https://img.shields.io/badge/CesiumJS-3E5164?style=flat-square&logo=cesium&logoColor=F5F9F5)
+![Leaflet](https://img.shields.io/badge/Leaflet-DCE3EA?style=flat-square&logo=leaflet&logoColor=253341)
+![Vite](https://img.shields.io/badge/Vite-AB421C?style=flat-square&logo=vite&logoColor=F5F9F5)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3E5164?style=flat-square&logo=tailwindcss&logoColor=F5F9F5)
 
 **Backend, Bulut &amp; Veri**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Upstash Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3E5164?style=flat-square&logo=python&logoColor=F5F9F5)
+![FastAPI](https://img.shields.io/badge/FastAPI-253341?style=flat-square&logo=fastapi&logoColor=EC7D55)
+![Node.js](https://img.shields.io/badge/Node.js-3E5164?style=flat-square&logo=nodedotjs&logoColor=F5F9F5)
+![.NET Core](https://img.shields.io/badge/.NET_Core-253341?style=flat-square&logo=dotnet&logoColor=F5F9F5)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-3E5164?style=flat-square&logo=googlecloud&logoColor=F5F9F5)
+![Firebase](https://img.shields.io/badge/Firebase-EC7D55?style=flat-square&logo=firebase&logoColor=253341)
+![Docker](https://img.shields.io/badge/Docker-3E5164?style=flat-square&logo=docker&logoColor=F5F9F5)
+![MongoDB](https://img.shields.io/badge/MongoDB-253341?style=flat-square&logo=mongodb&logoColor=EDF3EE)
+![Upstash Redis](https://img.shields.io/badge/Redis-AB421C?style=flat-square&logo=redis&logoColor=F5F9F5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3E5164?style=flat-square&logo=postgresql&logoColor=F5F9F5)
 
 </div>
 
@@ -170,18 +170,18 @@ flowchart LR
 ## 📈 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yucel-gumus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yucel-gumus&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yucel-gumus&show_icons=true&count_private=true&bg_color=DCE3EA&title_color=253341&text_color=3E5164&icon_color=EC7D55&border_color=BCC7D2" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yucel-gumus&layout=compact&bg_color=DCE3EA&title_color=253341&text_color=3E5164&icon_color=EC7D55&border_color=BCC7D2" height="170" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yucel-gumus&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yucel-gumus&background=DCE3EA&border=BCC7D2&stroke=BCC7D2&ring=EC7D55&fire=EC7D55&currStreakNum=253341&sideNums=253341&currStreakLabel=253341&sideLabels=3E5164&dates=3E5164" height="170" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <a href="https://www.yucelgumus.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Designed_%26_Engineered_by-Y%C3%BCcel_G%C3%BCm%C3%BC%C5%9F-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Yücel Gümüş" />
+    <img src="https://img.shields.io/badge/Designed_%26_Engineered_by-Y%C3%BCcel_G%C3%BCm%C3%BC%C5%9F-EC7D55?style=for-the-badge&labelColor=253341&logo=googlechrome&logoColor=F5F9F5" alt="Yücel Gümüş" />
   </a>
 </div>
